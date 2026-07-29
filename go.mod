@@ -82,6 +82,7 @@ require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.22.0
 	github.com/G-Core/gcore-dns-sdk-go v0.3.3
+	github.com/akamai/AkamaiOPEN-edgegrid-golang/v13 v13.3.0
 	github.com/aliyun/alibaba-cloud-sdk-go v1.63.107
 	github.com/aws/aws-sdk-go-v2/service/sts v1.45.0
 	github.com/centralnicgroup-opensource/rtldev-middleware-go-sdk/v5 v5.0.19
@@ -120,7 +121,6 @@ require (
 	cloud.google.com/go/compute/metadata v0.9.0 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.12.0 // indirect
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.7.2 // indirect
-	github.com/akamai/AkamaiOPEN-edgegrid-golang/v12 v12.3.0
 	github.com/andybalholm/cascadia v1.3.3 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.31 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.31 // indirect
@@ -194,7 +194,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260706201446-f0a921348800 // indirect
 	google.golang.org/grpc v1.82.1 // indirect
-	gopkg.in/ini.v1 v1.67.0 // indirect
+	gopkg.in/ini.v1 v1.67.3 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 	moul.io/http2curl v1.0.0 // indirect
 )
